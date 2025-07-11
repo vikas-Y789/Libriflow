@@ -44,6 +44,7 @@ Libriflow is a simple and responsive frontend-only web application designed to m
 ## 📁 Project Structure
 
 Libriflow/
+
 ├── index.html # Login Page
 
 ├── dashboard.html # Dashboard with Books & Staff management
