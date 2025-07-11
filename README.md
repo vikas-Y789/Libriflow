@@ -7,7 +7,7 @@ Libriflow is a simple and responsive frontend-only web application designed to m
 
 ## ✨ Features
 
-- 🔐 **User Login** (Dummy: `admin` / `admin123`)
+- 🔐 **User Login** (Dummy: `admin` / `admin`)
 - 📚 **Books Section** – View, search, add, and remove books
 - 👨‍🏫 **Staff Section** – View, search, add, and remove staff
 - 🌗 **Dark Mode** toggle with localStorage memory
@@ -36,8 +36,9 @@ Libriflow is a simple and responsive frontend-only web application designed to m
 1. Clone the repository or download the ZIP.
 2. Open the `index.html` file in any modern browser.
 3. Use the login credentials:
+
    Username: admin
-   Password: admin123
+   Password: admin
 
 ---
 
